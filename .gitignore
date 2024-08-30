@@ -7,7 +7,7 @@ Thumbs.db
 
 # Ignorar archivos de configuración local. 
 # DESCOMENTAR .env (la línea de abajo), cuando se suba a producción para que lo ignore
-# .env
+.env
 
 # Ignorar archivos de compilación y archivos generados
 /build
