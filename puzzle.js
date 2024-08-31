@@ -92,7 +92,7 @@ const setup = (app) => {
     `);
   });
 };
-//--- Explicación: Se configra la ruta de inicio (`/`); con un formulario que recoje la palabra secreta. En caso de error; muestra mensaje antes determinado. 
+//--- Explicación: Se configra la ruta de inicio (`/`); con un formulario que recoje la palabra secreta. En caso de error; muestra mensaje antes determinado.
 // -------------------------------------------------------------------------------------
 
 //Usado?: Yes
